@@ -2,7 +2,7 @@
 
 This repository uses Python with the Pandas library to analyze sample *Heroes of Pymoli* video game item microntransaction data from the [purchase_data](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/Resources/purchase_data.csv) CSV file. 
 
-All analysis is done in the [HeroesofPymoli](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/HeroesofPymoli.ipynb) Jupyter Notebook file using Pandas to create informative tables. For example, here is the data broken down by age demographic:
+All analysis is done in the [HeroesofPymoli](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/HeroesofPymoli.ipynb) Jupyter Notebook file using Pandas to create informative tables showing sales data. For example, here is the sales data broken down by age demographic:
 
 ![Here are the results](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/Resources/sample.png?raw=true)
 
