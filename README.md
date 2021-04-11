@@ -1,4 +1,4 @@
-# Pandas-Sales-Analysis
+# Pandas Sales Analysis
 
 This repository uses Python with the Pandas library to analyze sample *Heroes of Pymoli* video game item microntransaction data from the [purchase_data](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/Resources/purchase_data.csv) CSV file. 
 
