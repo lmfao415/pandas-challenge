@@ -1,6 +1,6 @@
 # pandas-challenge
 
-This repository uses Python analysis using the Pandas library to analyze sample *Heroes of Pymoli* video game item microntransaction data from the [purchase_data](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/Resources/purchase_data.csv) CSV file. 
+This repository uses Python witht the Pandas library to analyze sample *Heroes of Pymoli* video game item microntransaction data from the [purchase_data](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/Resources/purchase_data.csv) CSV file. 
 
 All analysis is done in the [HeroesofPymoli](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/HeroesofPymoli.ipynb) Jupyter Notebook file and reports the following:
 
@@ -62,3 +62,6 @@ All analysis is done in the [HeroesofPymoli](https://github.com/lmfao415/pandas-
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
+For example, here is the data broken down by age demographic:
+![Here are the results](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/Resources/sample.png?raw=true)
