@@ -1,7 +1,8 @@
 # pandas-challenge
 
-This project involves using sample video game sales data to perform Python analysis using Pandas.
+This repository uses Python analysis using the Pandas library to analyze sample *Heroes of Pymoli* video game item microntransaction data from the [purchase_data](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/Resources/purchase_data.csv) CSV file. 
 
+All analysis is done in the [HeroesofPymoli](https://github.com/lmfao415/pandas-challenge/blob/main/HeroesofPymoli/HeroesofPymoli.ipynb) Jupyter Notebook file and reports the following:
 
 ### Player Count
 
